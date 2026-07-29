@@ -1,10 +1,5 @@
 ## Hi there 👋
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,k8s,cs,python,react,unity,php,bash,js,linux" />
-  </a>
-  <img src="https://img.shields.io/badge/DevOps-%23000000.svg?style=for-the-badge&logo=opsgenie&logoColor=white" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,k3s,cs,python,js,react,unity,php,bash,linux)](https://skillicons.dev)
 <!--
 **11shadownevermore11/11shadownevermore11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
