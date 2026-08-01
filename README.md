@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,cs,python,react,unity,php,bash,js,linux,terraform,debian,redhat,grafana,postman,git,prometheus,kali,ubuntu,devops)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,cs,python,react,unity,php,bash,js,linux,terraform,ansible,debian,redhat,grafana,postman,git,prometheus,kali,ubuntu,devops)](https://skillicons.dev)
 <!--
 **11shadownevermore11/11shadownevermore11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
