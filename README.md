@@ -1,1 +1,1 @@
-[![My Skills](https://skillicons.dev/icons?i=docker,k8s,cs,python,react,unity,php,bash,js,linux,terraform,ansible,debian,redhat,grafana,postman,git,prometheus,kali,ubuntu,devops,bsd,cloudflare,gitlab,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,k8s,cs,python,react,unity,php,bash,js,linux,terraform,ansible,debian,redhat,grafana,postman,git,prometheus,kali,ubuntu,devops,freebsd,cloudflare,gitlab,figma)](https://skillicons.dev)
